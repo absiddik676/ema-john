@@ -1,0 +1,22 @@
+.logo img{
+    height: 80px;
+   
+}
+.logo{
+    text-align: center;
+}
+.logo nav{
+    background-color: black;
+    line-height: 50px;
+    font-size: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    margin-left: 30px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
